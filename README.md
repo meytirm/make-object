@@ -83,7 +83,7 @@ And we also want to call these functions any order but provideData always will b
 
 ## Installation
 ```bash
-git clone git@git.lamasoo.com:lamasoo/public/lamasoo-assignment.git
+git clone git@github.com:meytirm/make-object.git
 
 npm i
 
